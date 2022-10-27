@@ -13,8 +13,8 @@ const Footer = () => {
         <span><a href="https://mail.google.com/mail/u/0/">jet.ansari.col@gmail.com</a></span>
         <div className="f-icons">
           <a href="http://instagram.com/er.micheal?utm_source=qr" target="_blank"><Insta color="white" size={"3rem"} /></a>
-          <Facebook color="white" size={"3rem"}  />
-         <a href="https://github.com/ansari210/Testnomial.git" target="_blank"> <Gitub color="white" size={"3rem"} /></a>
+         <a href="https://www.facebook.com/profile.php?id=100012067606189" target="_blank"> <Facebook color="white" size={"3rem"}  /></a>
+         <a href="https://github.com/ansari210/" target="_blank"> <Gitub color="white" size={"3rem"} /></a>
         </div>
       </div>
     </div>

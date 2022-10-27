@@ -44,12 +44,12 @@ const Intro = () => {
         {/* social icons */}
 
         <div className="i-icons">
-          <img src={Github} alt="" />
+         <a href="https://github.com/ansari210/" target="_blank"> <img src={Github} alt="" /></a>
          <a href="https://linkedin.com/in/m-s-ansari-272706171" target="_blank"> <img src={LinkedIn} alt="" /></a>
         <a href="http://instagram.com/er.micheal?utm_source=qr" target="_blank">  <img src={Instagram} alt="" /></a>
         </div>
       </div>
-
+    
       {/* right image side */}
       <div className="i-right">
         <img src={Vector1} alt="" />
@@ -96,8 +96,11 @@ const Intro = () => {
             left: "-9rem",
           }}
         ></div>
+       
       </div>
+    
     </div>
+    
   );
 };
 
